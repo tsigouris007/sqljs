@@ -157,12 +157,12 @@
 							{
 								"id"    		: 15,
 								"username"  : "ssnape",
-								"password"  : "YWluYXVTaDM=",
+								"password"  : "RmxhZ3tQcm90ZWN0X1BvdHRlcl9BdF9BbGxfQ29zdHN9",
 								"role"  		: "admin",
 								"first"			: "Severus", 
 								"last"			: "Snape",
-								"major" 		: "UNDECLARED",
-								"state" 		: "UNDECLARE",
+								"major" 		: "Dark Arts",
+								"state" 		: "Hogwarts",
 								"gpa"				: -1
 							}
 						]
