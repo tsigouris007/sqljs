@@ -306,7 +306,7 @@ JSQ.generator= {};
 
         var tabl = tables[table_name];
 
-        var out = "<table class='table table-striped table-dark' border='0'>\n<tr>\n";
+        var out = "<table class='table table-striped table-dark' style='text-align:center' border='0'>\n<tr>\n";
 
         for(var colnum in cols_array)
         {
