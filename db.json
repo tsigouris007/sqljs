@@ -1,0 +1,170 @@
+{ 
+			"student" : [
+							{
+								"id"    		: 1,
+								"username"  : "jsmith",
+								"password"  : "c2hvb2QzQWk=",
+								"role"  		: "student",
+								"first"			: "John", 
+								"last"			: "Smith",
+								"major" 		: "CS",
+								"state" 		: "NJ",
+								"gpa"				: 5
+							},
+								{
+								"id"    		: 2,
+								"username"  : "jrobinson",
+								"password"  : "VGhhaWhhNWs=",
+								"role"  		: "student",
+								"first"			: "Jeremy", 
+								"last"			: "Robinson",
+								"major" 		: "CS",
+								"state" 		: "NJ",
+								"gpa"				: 3
+							},
+							{
+								"id"    		: 3,
+								"username"  : "jjason",
+								"password"  : "WWFld29oME8=",
+								"role"  		: "student",
+								"first"			: "John", 
+								"last"			: "Jason",
+								"major" 		: "CS",
+								"state" 		: "NJ",
+								"gpa"				: 1
+							},
+							{
+								"id"    		: 4,
+								"username"  : "jjohnson",
+								"password"  : "R2FpOEZvY2k=",
+								"role"  		: "student",
+								"first"			: "Jane", 
+								"last"			: "Johnson",
+								"major" 		: "BIO",
+								"state" 		: "NY",
+								"gpa"				: 4
+							},
+							{
+								"id"    		: 5,
+								"username"  : "jblack",
+								"password"  : "Q2hhaFR1NGU=",
+								"role"  		: "student",
+								"first"			: "Jack", 
+								"last"			: "Black",
+								"major" 		: "HIS",
+								"state" 		: "FL",
+								"gpa"				: 2
+							},
+							{
+								"id"    		: 6,
+								"username"  : "tgreen",
+								"password"  : "dGFlYjdPa2E=",
+								"role"  		: "student",
+								"first"			: "Tom", 
+								"last"			: "Green",
+								"major" 		: "MATH",
+								"state" 		: "NJ",
+								"gpa"				: 2
+							},
+							{
+								"id"    		: 7,
+								"username"  : "llavender",
+								"password"  : "YWlGMm9hZG8=",
+								"role"  		: "student",
+								"first"			: "Lucy", 
+								"last"			: "Lavender",
+								"major" 		: "ENG",
+								"state" 		: "TX",
+								"gpa"				: 3
+							},
+							{
+								"id"    		: 8,
+								"username"  : "mmorrison",
+								"password"  : "aGFoM1lvaDU=",
+								"role"  		: "student",
+								"first"			: "Matilda", 
+								"last"			: "Morrison",
+								"major" 		: "ENG",
+								"state" 		: "NJ",
+								"gpa"				: 2
+							},
+							{
+								"id"    		: 9,
+								"username"  : "sbridge",
+								"password"  : "cXVlZTRTb28=",
+								"role"  		: "student",
+								"first"			: "Sandy", 
+								"last"			: "Bridge",
+								"major" 		: "ENG",
+								"state" 		: "OH",
+								"gpa"				: 1
+							},
+							{
+								"id"    		: 10,
+								"username"  : "hpotter",
+								"password"  : "R2FpMmVlZmE=",
+								"role"  		: "student",
+								"first"			: "Harriet", 
+								"last"			: "Potter",
+								"major" 		: "WIZ",
+								"state" 		: "NY",
+								"gpa"				: 3
+							},
+							{
+								"id"    		: 11,
+								"username"  : "rrabit",
+								"password"  : "b1NoMFZpZU4=",
+								"role"  		: "student",
+								"first"			: "Roger", 
+								"last"			: "Rabit",
+								"major" 		: "PSY",
+								"state" 		: "CA",
+								"gpa"				: 4
+							},
+							{
+								"id"    		: 12,
+								"username"  : "cdawson",
+								"password"  : "UmFoZDhpZW0=",
+								"role"  		: "student",
+								"first"			: "Creek", 
+								"last"			: "Dawson",
+								"major" 		: "ENG",
+								"state" 		: "MI",
+								"gpa"				: 4
+							},
+							{
+								"id"    		: 13,
+								"username"  : "bgrizzly",
+								"password"  : "RWtlZTJvb2o=",
+								"role"  		: "student",
+								"first"			: "Behr", 
+								"last"			: "Grizzly",
+								"major" 		: "HIS",
+								"state" 		: "TX",
+								"gpa"				: 3
+							},
+							{
+								"id"    		: 14,
+								"username"  : "rmcdonald",
+								"password"  : "aGFlSDRvaG8=",
+								"role"  		: "student",
+								"first"			: "Ronald", 
+								"last"			: "McDonald",
+								"major" 		: "BIO",
+								"state" 		: "NJ",
+								"gpa"				: 3
+							},
+							{
+								"id"    		: 15,
+								"username"  : "ssnape",
+								"password"  : "YWluYXVTaDM=",
+								"role"  		: "admin",
+								"first"			: "Severus", 
+								"last"			: "Snape",
+								"major" 		: "UNDECLARED",
+								"state" 		: "UNDECLARE",
+								"gpa"				: -1
+							}
+						]
+}
+
