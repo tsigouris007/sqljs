@@ -152,7 +152,6 @@ JSQ.generator= {};
             {
                 current_len = tokens.where.children.length - 1;
                 current = tokens.where.children[current_len];
-                console.log(current);
 
                 // if you see a logical operator, its time to start a new child
                 if(JSQ.parser.isLogic(word))
@@ -169,7 +168,6 @@ JSQ.generator= {};
                     current = tokens.where.children[current_len];
                 }
 
-                console.log("Word: " + word)
                 if(JSQ.parser.isNotSpecialWord(word))
                 {
                     // if the first slot is empty fill it
