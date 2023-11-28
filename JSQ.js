@@ -306,7 +306,7 @@ JSQ.generator= {};
 
         var tabl = tables[table_name];
 
-        var out = "<table class='' border='0'>\n<tr>\n";
+        var out = "<table class='table table-striped table-dark' border='0'>\n<tr>\n";
 
         for(var colnum in cols_array)
         {
@@ -369,7 +369,7 @@ JSQ.query = function (sql, database_url, callback)
 			var html = JSQ.generator.getTableAsString(JSQ.parser.tokens.from.name,
 								JSQ.parser.tokens.select.children, cond);
 
-			callback("<strong>Table: " + JSQ.parser.tokens.from.name + "</strong><br />" + html);
+			callback(html);
 		}
 		catch(parse_error)
 		{
